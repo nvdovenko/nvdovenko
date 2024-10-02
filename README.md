@@ -5,7 +5,7 @@
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/anastasiia-vdovenko-26b7992b1">
-    <img
+    <img height="30px"
       src="https://img.shields.io/badge/LinkedIn-blue?style-for-the- badge&logo-linkedin&logoColor=white"
       alt="LinkedIn"
     />
