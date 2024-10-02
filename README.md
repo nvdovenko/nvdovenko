@@ -13,8 +13,8 @@
 </div>
 
 ### About me
-- 🌱 I am currently learning React and TypeScript
-- 🔭 I am looking for a job
+- 🌱 I am currently learning React and TypeScript.
+- 🔭 I am looking for a job.
 - 💬 I live in Tampere since 2022, but originally I am from Russia.
 
 <!--
