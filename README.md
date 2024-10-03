@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1>Hi there, I am Anastasiia</h1>
-  <h3>I am software engineer from Tampere, Finland</h3>
+  <h1>Hi, I am Anastasiia</h1>
+  <h3>Software engineer from Tampere, Finland</h3>
 </div>
 
 <div id="socials" align="center">
@@ -14,8 +14,21 @@
 
 ### About me
 - 🌱 I am currently learning React and TypeScript.
-- 🔭 I am looking for a job.
-- 💬 I live in Tampere since 2022, but originally I am from Russia.
+- 🕒 4+ yaers of experience.
+- 👯 I live in Tampere since 2022, but originally I am from Russia.
+- 💬 Speak English.
+
+<br/>
+
+### Langauges and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>&nbsp; 
+          
 
 <!--
 **nvdovenko/nvdovenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
