@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi, I am Anastasiia</h1>
-  <h3>Software engineer from Tampere, Finland</h3>
+  <h3>Software Engineer from Tampere, Finland</h3>
 </div>
 
 <div id="socials" align="center">
@@ -14,7 +14,7 @@
 
 ### About me
 - 🌱 Currently learning React and TypeScript.
-- 🕒 4+ yaers of experience.
+- 🕒 4+ years of experience.
 - 👯 Live in Tampere since 2022, but originally I am from Russia.
 - 💬 Speak English.
 
