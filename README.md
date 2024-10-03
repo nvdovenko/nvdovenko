@@ -13,9 +13,9 @@
 </div>
 
 ### About me
-- 🌱 I am currently learning React and TypeScript.
+- 🌱 Currently learning React and TypeScript.
 - 🕒 4+ yaers of experience.
-- 👯 I live in Tampere since 2022, but originally I am from Russia.
+- 👯 Live in Tampere since 2022, but originally I am from Russia.
 - 💬 Speak English.
 
 <br/>
