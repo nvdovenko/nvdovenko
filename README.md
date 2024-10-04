@@ -27,9 +27,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>&nbsp; 
 
-          
-<br/><br/>
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvdovenko&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvdovenko&theme=default)
