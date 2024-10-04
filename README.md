@@ -18,8 +18,6 @@
 - 👯 Live in Tampere since 2022, but originally I am from Russia.
 - 💬 Speak English.
 
-<br/>
-
 ### Langauges and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>&nbsp;
