@@ -14,7 +14,8 @@
 
 ### About me
 - 🌱 Currently learning React and TypeScript.
-- 🕒 4+ years of experience.
+- 🕒 4+ years of experience on in the development of desktop and mobile applications
+  for automating business activities.
 - 👯 Live in Tampere since 2022, but originally I am from Russia.
 - 💬 Speak English.
 
