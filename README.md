@@ -18,9 +18,10 @@
 - 👯 Living in Tampere since 2022, originally from Russia.
 - 💬 I speak English.
 
-### Some of my projects that I'm proud of
-- <a href="https://github.com/Ennendra/MyRecipeBook">MyRecipeBook</a> – a single-page web application where I, along with two great software developers, showcased our skills in web programming and team collaboration.
-  If you're interested in my front-end skills, feel free to check it out
+### Some of my projects that showcase my skills
+- <a href="https://github.com/Ennendra/MyRecipeBook">MyRecipeBook</a> – a single-page web application where I, along with two talented software developers, demonstrated our skills in web programming and team collaboration.
+If you're interested in my front-end skills, feel free to check it out.
+
 
 ### Langauges and tools
 
