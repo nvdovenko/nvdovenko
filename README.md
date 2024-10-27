@@ -19,9 +19,9 @@
 - 💬 I speak English.
 
 ### Some of my projects that showcase my skills
-- <a href="https://github.com/Ennendra/MyRecipeBook">MyRecipeBook</a> – a single-page web application where I, along with two talented software developers, demonstrated our skills in web programming and team collaboration.
+- <a href="https://github.com/Ennendra/MyRecipeBook">MyRecipeBook</a>  a single-page web application where I, along with two talented software developers, demonstrated our skills in web programming and team collaboration.
 If you're interested in my front-end skills, feel free to check it out.
-
+- <a href="https://github.com/nvdovenko/ToDo-List-">ToDo List</a>  a simple Todo List application with a clean, minimalist interface built with React and TypeScript. 
 
 ### Langauges and tools
 
