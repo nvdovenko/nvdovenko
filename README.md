@@ -22,7 +22,8 @@
 - <a href="https://github.com/Ennendra/MyRecipeBook">MyRecipeBook</a>  a single-page web application where I, along with two talented software developers, demonstrated our skills in web programming and team collaboration.
 If you're interested in my front-end skills, feel free to check it out.
 - <a href="https://github.com/nvdovenko/ToDo-List-">ToDo List</a>  a simple Todo List application with a clean, minimalist interface built with React and TypeScript.
-This app is small, but I'm finding TypeScript really challanging because I'm still learning it.  
+This app is small, but I'm finding TypeScript really challanging because I'm still learning it.
+- I'm currently developing my own <a href="https://github.com/nvdovenko/Storybook">Storybook</a>. At the moment, it only contains a gallery of svg icons and colors with a copy-to-clipboard and search function. React and Web Component examples are still in progress, which is why it isn't deployed on GitHub Pages yet.  
 
 ### Langauges and tools
 
@@ -33,25 +34,3 @@ This app is small, but I'm finding TypeScript really challanging because I'm sti
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>&nbsp; 
 
-
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvdovenko&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvdovenko&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvdovenko&theme=default)
-
--->
-
-
-<!--
-**nvdovenko/nvdovenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
