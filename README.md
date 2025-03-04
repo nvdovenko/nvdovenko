@@ -23,7 +23,7 @@
 If you're interested in my front-end skills, feel free to check it out.
 - <a href="https://github.com/nvdovenko/ToDo-List-">ToDo List</a>  a simple Todo List application with a clean, minimalist interface built with React and TypeScript.
 This app is small, but I'm finding TypeScript really challanging because I'm still learning it.
-- I'm currently developing my own <a href="https://github.com/nvdovenko/Storybook">Storybook</a>. At the moment, it only contains a gallery of svg icons and colors with a copy-to-clipboard and search function. React and Web Component examples are still in progress, which is why it isn't deployed on GitHub Pages yet.  
+- I'm currently developing my own <a href="https://github.com/nvdovenko/Storybook">Storybook</a> with React components and other features. Still in progress, which is why it isn't deployed on GitHub Pages yet.  
 
 ### Langauges and tools
 
