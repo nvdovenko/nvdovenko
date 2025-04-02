@@ -21,9 +21,8 @@
 ### Some of my projects that showcase my skills
 - <a href="https://github.com/Ennendra/MyRecipeBook">MyRecipeBook</a>  a single-page web application where I, along with two talented software developers, demonstrated our skills in web programming and team collaboration.
 If you're interested in my front-end skills, feel free to check it out.
-- <a href="https://github.com/nvdovenko/ToDo-List-">ToDo List</a>  a simple Todo List application with a clean, minimalist interface built with React and TypeScript.
-This app is small, but I'm finding TypeScript really challanging because I'm still learning it.
-- I'm currently developing my own <a href="https://github.com/nvdovenko/Storybook">Storybook</a> with React components and other features. Still in progress, which is why it isn't deployed on GitHub Pages yet.  
+- My own small <a href="https://github.com/nvdovenko/Storybook">Storybook</a> with React components and other features.
+- <a href="https://github.com/nvdovenko/ToDo-List-">ToDo List</a>   – a simple to-do list application with a clean, minimalist interface. I developed this app when I was just starting to learn TypeScript and React, but I believe it showcases my approach to work.
 
 ### Langauges and tools
 
