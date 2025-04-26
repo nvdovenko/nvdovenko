@@ -5,15 +5,12 @@
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/anastasiia-vdovenko-26b7992b1">
-    <img height="30px"
-      src="https://img.shields.io/badge/LinkedIn-blue?style-for-the- badge&logo-linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img height="30px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 ### About me
-- 📚 Currently learning React and TypeScript.
+- 📚 Currently work with React and TypeScript.
 - 💼 4+ years of experience in developing desktop and mobile applications for automating business processes.
 - 🏡 Living in Tampere since 2022, originally from Russia.
 - 💬 I speak English.
@@ -28,8 +25,9 @@ If you're interested in my front-end skills, feel free to check it out.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" title="Material UI" width="50" height="50"/>&nbsp;
 
