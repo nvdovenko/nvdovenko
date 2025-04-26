@@ -10,7 +10,7 @@
 </div>
 
 ### About me
-- 📚 Currently work with React and TypeScript.
+- 📚 Currently working with React and TypeScript.
 - 💼 4+ years of experience in developing desktop and mobile applications for automating business processes.
 - 🏡 Living in Tampere since 2022, originally from Russia.
 - 💬 I speak English.
