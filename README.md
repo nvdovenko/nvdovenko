@@ -16,6 +16,7 @@
 - 💬 I speak English.
 
 ### Some of my projects that showcase my skills
+- <a href="https://github.com/nvdovenko/nord">NORD</a> - my latest project currently in development: an online store built with React and Web Components. It features a dynamic cart with localStorage and custom elements. Future plans include adding a backend with databases to support user accounts, orders, and inventory management.
 - <a href="https://github.com/Ennendra/MyRecipeBook">MyRecipeBook</a>  a single-page web application where I, along with two talented software developers, demonstrated our skills in web programming and team collaboration.
 If you're interested in my front-end skills, feel free to check it out.
 - My own small <a href="https://github.com/nvdovenko/Storybook">Storybook</a> with React components and other features.
